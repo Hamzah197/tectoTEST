@@ -1,0 +1,32 @@
+
+#header h1 {
+    padding-bottom: 20px; /* Increase padding to create more space */
+}
+
+#header ul {
+    padding-top: 40px; /* Increase top padding for more space */
+}
+
+#sidebar .tag {
+    display: none; /* Hide the element instead of setting height to 0 */
+
+.rss {
+    top: 20px; /* Adjust the vertical position */
+}
+
+#content .featured .text {
+    height: auto; /* Remove height restriction */
+    padding-bottom: 40px; /* Increase bottom padding for more space */
+}
+
+#content .featured-img .text p {
+    height: auto; /* Remove height restriction */
+}
+
+#footer {
+    display: none; /* Hide the footer instead of setting height to 0 */
+}
+
+#sidebar ul {
+    padding-left: 0; /* Remove left padding */
+}
